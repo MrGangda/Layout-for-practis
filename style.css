@@ -7,3 +7,18 @@ body {
     height: 4759px;
     background-color: #FFFFFF;
 }
+
+header {
+    width: 940.6px;
+    height: 87.94px;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+ul {
+    display: inline-block;
+    margin: auto;
+}
