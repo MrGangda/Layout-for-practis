@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"name": "javascript уроки",
+			"path": "../../javascript уроки"
+		},
+		{
+			"name": "To Do List",
+			"path": "../../To Do List"
+		},
+		{
+			"name": "Layout for practis",
+			"path": ".."
+		},
+		{
+			"path": "../../Шаблонные файлы"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Layout for practis"
+	}
+}
