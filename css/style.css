@@ -728,4 +728,103 @@ color: #ED4C5C;
 
 
 
+/* end section 3 */
 
+
+/* Start section 4 */
+
+.main_section-4 {
+    background: #FFFFFF;
+}
+
+.main_section-4 .wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 63px;
+    padding-bottom: 104px;
+}
+
+.section-4_title {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    margin-bottom: 52px;
+
+    color: #000000;
+}
+
+.section-4_content {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.section-4_card {
+    width: 255px;
+    height: 226px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-4_content_cards {
+    width: 190px;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-4_numbers_img {
+    width: 115px;
+    height: 80px;
+}
+
+.section-4_card_logo {
+    width: 70px;
+    height: 70px;
+}
+
+.section-4_card_logo4 {
+    width: 50px;
+    height: 57px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.section-4_content_description {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #101010;
+}
+
+.section-4_content_description:nth-of-type(1) {
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.section-4_content_description:nth-of-type(2) {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #000000;
+}
